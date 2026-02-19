@@ -1,0 +1,8 @@
+{
+  "name": "EliteExpress Mobile Detailing",
+  "description": "Premium AI-powered mobile detailing for Dallas, Plano, Richardson, and Frisco. Multi-image vehicle analysis for precise estimates.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
